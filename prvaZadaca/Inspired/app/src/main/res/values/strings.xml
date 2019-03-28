@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Inspired</string>
+
+    <string name="geoffrey_hinton">Geoffrey Hinton</string>
+    <string name="geoffrey_hinton_born">06.12.1947.</string>
+    <string name="geoffrey_hinton_about">Geoffrey Hinton je englesko-kanadski kognitivni psiholog i računalni znanstvenik, koji je najviše poznat po svom radu na umjetnim neuronskim mrežama.</string>
+
+    <string name="linus_torvalds">Linus Torvalds</string>
+    <string name="linus_torvalds_born">28.12.1969.</string>
+    <string name="linus_torvalds_about">Linus Benedict Torvalds je finsko-američki softverski inženjer koji je tvorac i povijesno glavni programer Linux kernela, koji je postao kernel za mnoge Linux distribucije i operativne sustave kao što su Android i Chrome OS.</string>
+
+    <string name="steve_wozniak">Steve Wozniak</string>
+    <string name="steve_wozniak_born">11.08.1950.</string>
+    <string name="steve_wozniak_about">Steve Wozniak je američki izumitelj, inženjer elektronike, programer, filantrop i tehnološki poduzetnik koji je 1976. godine pomogao u osnivanju tvrtke Apple, Inc., koja je vrlo brzo postala najveća svjetska tvrtka za informacijsku tehnologiju.</string>
+
+    <!--&lt;!&ndash;polja stringova&ndash;&gt;-->
+    <!--<string-array name="quotes_geoffrey_hinton">-->
+        <!--<item>Da biste se nosili s 14-dimenzionalnim prostorom, zamislite 3-D prostor i recite sebi „četrnaest“ vrlo glasno. Svi to rade.</item>-->
+        <!--<item>Bager nam može spasiti mnogo kopanja. Ali, naravno, možete ga zloupotrijebiti.</item>-->
+        <!--<item>Bilo koja nova tehnologija, ako je koriste zli ljudi, omogućava da se dese loše stvari, ali to je više pitanje politike tehnologije.</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="quotes_linus_torvalds">-->
+        <!--<item>Većina dobrih programera radi programiranje ne zato što očekuju da će biti plaćeni ili da će ih publika laskati, već zato što je zabavno programirati.</item>-->
+        <!--<item>Inteligencija je sposobnost izbjegavanja obavljanja posla, a ipak obavljanje posla.</item>-->
+        <!--<item>Po mom mišljenju Microsoft je puno bolji u zarađivanju novac nego što je u izradi dobrih operacijskih sustava.</item>-->
+    <!--</string-array>-->
+
+    <!--<string-array name="quotes_steve_wozniak">-->
+        <!--<item>Nikada nemoj vjerovati računalu koje ne možeš izbaciti kroz prozor.</item>-->
+        <!--<item>Vaši prvi projekti nisu najveće stvari na svijetu, i možda nemaju novčanu vrijednost, mogu ići nigdje, ali to je način na koji učite - stavljate toliko truda u stvaranje nečega ispravnog ako je to za vas.</item>-->
+        <!--<item>Čini se da svi najbolji ljudi u životu vole LINUX.</item>-->
+    <!--</string-array>-->
+
+    <!--hinton-->
+    <string name="geoffrey_hinton_quote01">Da biste se nosili s 14-dimenzionalnim prostorom, zamislite 3-D prostor i recite sebi „četrnaest“ vrlo glasno. Svi to rade.</string>
+    <string name="geoffrey_hinton_quote02">Bager nam može spasiti mnogo kopanja. Ali, naravno, možete ga zloupotrijebiti.</string>
+    <string name="geoffrey_hinton_quote03">Bilo koja nova tehnologija, ako je koriste zli ljudi, omogućava da se dese loše stvari, ali to je više pitanje politike tehnologije.</string>
+
+
+    <string name="linus_torvalds_quote01">Većina dobrih programera radi programiranje ne zato što očekuju da će biti plaćeni ili da će ih publika laskati, već zato što je zabavno programirati.</string>
+    <string name="linus_torvalds_quote02">Inteligencija je sposobnost izbjegavanja obavljanja posla, a ipak obavljanje posla.</string>
+    <string name="linus_torvalds_quote03">Po mom mišljenju Microsoft je puno bolji u zarađivanju novac nego što je u izradi dobrih operacijskih sustava.</string>
+
+
+    <string name="steve_wozniak_quote01">Nikada nemoj vjerovati računalu koje ne možeš izbaciti kroz prozor.</string>
+    <string name="steve_wozniak_quote02">Vaši prvi projekti nisu najveće stvari na svijetu, i možda nemaju novčanu vrijednost, mogu ići nigdje, ali to je način na koji učite - stavljate toliko truda u stvaranje nečega ispravnog ako je to za vas.</string>
+    <string name="steve_wozniak_quote03">Čini se da svi najbolji ljudi u životu vole LINUX.</string>
+</resources>
